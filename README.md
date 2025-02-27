@@ -1,4 +1,4 @@
-# TrustyAI Generative Model RHOAI Demo
+# TrustyAI+RHOAI LLM Evaluation and Guardrails Demo
 
 
 
