@@ -26,4 +26,4 @@ spec:
     - name: tokenized_requests
       value: "False"
     - name: tokenizer
-      value: models/qwen-instruct
+      value: Qwen/Qwen2.5-0.5B-Instruct
