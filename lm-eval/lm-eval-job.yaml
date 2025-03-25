@@ -16,9 +16,9 @@ spec:
       size: 5Gi
   modelArgs:
     - name: model
-      value: qwen2
+      value: qwen-instruct
     - name: base_url
-      value: http://qwen2-predictor:8080/v1/completions
+      value: http://qwen-instruct-predictor:8080/v1/completions
     - name: num_concurrent
       value:  "1"
     - name: max_retries
