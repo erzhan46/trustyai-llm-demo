@@ -6,7 +6,7 @@ data:
   config.yaml: |
     chat_generation:
       service:
-        hostname: qwen2-predictor.model-namespace.svc.cluster.local
+        hostname: qwen-instruct-predictor.model-namespace.svc.cluster.local
         port: 8080
     detectors:
       regex_competitor:
