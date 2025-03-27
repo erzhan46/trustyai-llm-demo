@@ -2,6 +2,7 @@ apiVersion: trustyai.opendatahub.io/v1alpha1
 kind: LMEvalJob
 metadata:
   name: evaljob
+  namespace: ai-example-trustyai-demo
 spec:
   model: local-completions
   taskList:
